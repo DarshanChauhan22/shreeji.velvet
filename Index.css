@@ -1,0 +1,335 @@
+*
+{
+	color:white;
+}
+
+html,body
+{
+	overflow-x: hidden;
+}
+
+.background
+{
+	 background-image: url('44.jpeg'),url('https://d1aueex22ha5si.cloudfront.net/Conference/945/BackGround/abstract-motion-dark-blue-background-4k_41oqtyt7g__F0000-1545402311918.png');
+	 background-repeat: no-repeat,no-repeat;
+	 background-size: 100% 43rem , 100% 100%;
+	 background-position:0px 0px, 0px 0px;
+	 background-attachment:scroll , fixed;
+}
+
+
+.nav 
+{
+	justify-content:right;
+}
+
+.navm
+{
+	font-size: 1.2rem;
+  position: fixed;
+  top: 0;
+  lef: 0;
+  right: 0;
+  height: 4.2rem;
+  box-shadow: 0px 0px 20px 0px black;
+  margin-top: -0.925rem;
+  background-color: #243BE3;
+  width: 100%;
+  z-index: 100;
+}
+
+.nav a
+{
+	color:white;
+}
+
+.nav a:hover
+{
+	color:white;
+}
+
+.dropdown-item
+{
+	background-color:black;
+}
+
+.nav-item
+{
+	margin-right:0px;
+	margin-left:1.25rem;
+	margin-top:2rem;
+}
+
+.logo
+{
+	margin-top: 0.900rem;
+	margin-bottom:-4.8rem;
+}
+
+.logo h3
+{
+	font-size: 2rem;
+	margin-left:5.25rem;
+	margin-top:-2.91rem;
+}
+
+.wel
+{
+	display: flex;
+	text-align: left;
+	margin:15.62rem auto auto 8rem;
+}
+
+.wel h2
+{
+	font-size: 2rem;
+	margin-top:3.75rem;
+	margin-left:-20rem;
+}
+
+.ov
+{
+	width:45rem;
+	height:9.3rem;
+	border-radius: 25px;
+	display: flex;
+  justify-content: left;
+	margin-left:0.625rem;
+	padding-top:1.56rem;
+	margin-top:15.60rem;
+	background-color: rgba(0, 0, 0, 0.8);
+	box-shadow: 0px 0px 20px #000;
+}
+
+.cus
+{
+	text-align:center;
+}
+
+.pro
+{
+	margin-left:0.625rem;
+	text-align:center;
+}
+
+.city
+{
+	margin-left:3.1rem;
+	text-align:center;
+}
+
+.pro h3
+{
+	margin-left:-0.625rem;
+}
+
+.cus h3
+{
+	margin-left:-0.625rem;
+}
+
+.city h3
+{
+	margin-left:-0.625rem;
+}
+
+.ft
+{
+	box-shadow: 0px 0px 20px 0px black;
+	display: flex;
+	margin-top:6.25rem;
+	height:12.5rem;
+	color:white;
+	background-color: rgba(0, 0, 0, 0.9);
+}
+
+
+.ft p
+{
+	margin-top:0.625rem;
+	padding-top:1.25rem;
+	text-align:center;
+}
+.icon img
+{
+	margin-top:0.625rem;
+}
+
+.icon
+{
+	margin: 0 auto 30;
+	justify-self:center;
+}
+
+.quicklink
+{
+	margin: auto auto 30 100;
+}
+
+.contect
+{
+	margin: auto 80 60 auto;
+}
+
+.quicklink a
+{
+	text-decoration: none;
+	color: white;
+}
+
+.contect a
+{
+	text-decoration: none;
+	color: white;
+}
+
+.vl 
+{
+  border-left: 3px solid blue;
+  height: 100px;
+  margin-top:-100px;
+  margin-left:15rem;
+}
+
+.know
+{
+	width:100%;
+	height:50rem;
+	display:flex;
+	justify-content: center;
+	box-shadow: 0px 0px 20px #000;
+	background-image: url('https://thumbs.dreamstime.com/b/isometric-location-map-points-white-background-vector-95132601.jpg');
+	background-size: 100% 100%;
+  background-position:0px 0px;
+  background-attachment:fixed;
+}
+
+.know h2
+{
+	margin-top:-3.75rem;
+	margin-left:6.25rem;
+}
+
+.know2
+{
+	width: 100%;
+	margin-top:6.25rem;
+	margin-right:30%;
+	background-color: rgba(0, 0, 0, 0.9);
+	box-shadow: 0px 0px 20px #000;
+}
+
+.au
+{
+	height: 23rem;
+	margin-top: 3.1rem;
+	display: flex;
+}
+
+.au p 
+{
+	font-size: 1.2rem;
+	margin: auto;
+	padding: 1rem;
+	flex: 1;
+	text-align: justify; 
+  text-align-last: left;
+}
+
+.au img
+{
+	flex: 1;
+}
+
+.au h4
+{
+	margin: 0.625rem auto auto 6.25rem;
+}
+
+.visi
+{
+	margin-top:6.25rem;
+	margin-left:2.6rem;
+}
+
+.card-body
+{
+	background-color: rgba(0, 0, 0, 0.9);
+}
+
+.row
+{
+	justify-content: center;
+	flex-direction: column;
+}
+
+.row h3
+{
+	font-size: 2.5rem;
+}
+
+.row p
+{
+	font-size: 1.2rem;
+}
+
+.pd
+{
+	margin-top:1.8rem;
+	display:flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+.card
+{	
+	justify-content:center;
+	box-shadow: 0px 0px 20px 5px black;
+	height:32rem;
+	width:35.75rem;
+	margin: 3rem auto;
+}
+
+.card h4
+{
+	font-size: 2.5rem;
+}
+
+.card p
+{
+	font-size: 1.2rem;
+}
+
+.card a
+{
+	text-decoration: none;	
+}
+
+.titlePro
+{
+	margin-top: 3.1rem;
+}
+
+.titlePro h2
+{
+	font-size: 2.5rem;
+}
+
+.card1
+{
+	display: flex;
+	box-shadow: 0px 0px 20px 0px black;
+	width: 50rem;
+	margin: 3rem auto 3rem auto;
+}
+
+.titleVisi
+{
+	margin-left: -2.5rem;
+	margin-bottom: 1.8rem;
+}
+
+.titleVisi h2
+{
+	font-size: 2.5rem;
+}

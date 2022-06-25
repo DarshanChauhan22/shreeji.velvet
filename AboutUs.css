@@ -1,0 +1,216 @@
+*
+{
+	color:white;
+
+}
+
+html,body
+{
+	overflow-z: hidden;
+	height: 100%;
+}
+
+.nav 
+{
+	justify-content:right;
+}
+
+.navm
+{
+  font-size: 1.2rem;
+  position: fixed;
+  top: 0;
+  lef: 0;
+  right: 0;
+  height: 4.2rem;
+  box-shadow: 0px 0px 20px 0px black;
+  margin-top: -0.925rem;
+  background-color: #243BE3;
+  width: 100%;
+  z-index: 100;
+}
+
+.nav a
+{
+	color:white;
+}
+
+.nav a:hover
+{
+	color:white;
+}
+
+.nav-item
+{
+	margin-right:0px;
+	margin-left:1.25rem;
+	margin-top:2rem;
+}
+
+
+.logo
+{
+	margin-top: 0.900rem;
+	margin-bottom:-4.8rem;
+}
+
+.logo h3
+{
+	font-size: 2rem;
+	margin-left:5.25rem;
+	margin-top:-2.91rem;
+}
+
+.background
+{
+	background-image: url('https://d1aueex22ha5si.cloudfront.net/Conference/945/BackGround/abstract-motion-dark-blue-background-4k_41oqtyt7g__F0000-1545402311918.png');
+	background-repeat: no-repeat,no-repeat;
+	background-position:0px 0px, 0px 0px;
+	background-attachment:scroll , fixed;
+}
+
+.ft
+{
+	box-shadow: 0px 0px 20px 0px black;
+	margin-bottom: 0px;
+}
+
+
+
+
+.hd
+{
+	padding-top: 3.1rem;
+	margin-top: 3.1rem;
+	text-align: left;
+}
+
+.hd h1
+{
+	font-size: 2.5rem;
+}
+
+.au
+{
+	height: 20rem;
+	margin-top: 3.1rem;
+	display: flex;
+}
+
+.au p 
+{
+	text-align: justify; 
+  	text-align-last: left;
+	font-size: 1.2rem;
+	margin: auto;
+	padding: 0.5rem;
+	flex: 1.1;
+}
+
+.au img
+{
+	flex: 1;
+}
+
+.founder
+{
+	width:80%px;
+	height:31.25rem;
+	display:flex;
+	justify-content:center;
+	padding:1.25rem;
+	/*margin-left:125px;
+	margin-right:100px;*/
+	box-shadow: 0px 0px 20px #000;
+	background-image: url('https://blog.centrodeelearning.com/wp-content/uploads/2021/08/group-of-successful-young-businesspeople-holding-u-QF9JM67-scaled.jpg');
+	background-size: 100% 100%;
+ 	 background-position:0px 0px;
+  	background-attachment:fixed;
+	display: flex;
+}
+
+.founder a
+{
+	text-decoration: none;
+}
+
+.card
+{	
+	height:25rem;
+	width:20rem;
+	margin-left: 2.625rem;
+	margin-right: 2.625rem;
+	box-shadow: 0px 0px 20px black;
+	background-color: black;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.founder p,h5
+{
+	color: black;
+}
+
+.team
+{
+	margin-top: 6.25rem;
+	margin-bottom: 1.8rem;
+	text-align: left;
+	font-size: 2.5rem;
+}
+
+
+
+
+
+
+
+
+.ft
+{
+	display: flex;
+	margin-top:6.25rem;
+	height:13rem;
+	color:white;
+	background-color: rgba(0, 0, 0, 0.9);
+}
+
+
+.ft p
+{
+	margin-top:0.625rem;
+	padding-top:1.2rem;
+	text-align:center;
+}
+.icon img
+{
+	margin-top:0.625rem;
+}
+
+.icon
+{
+	margin: 0 auto 30;
+	justify-self:center;
+}
+
+.quicklink
+{
+	margin: auto auto 30 100;
+}
+
+.contect
+{
+	margin: auto 80 60 auto;
+}
+
+.quicklink a
+{
+	text-decoration: none;
+	color: white;
+}
+
+.contect a
+{
+	text-decoration: none;
+	color: white;
+}
